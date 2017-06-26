@@ -1,4 +1,5 @@
-class Rental {
+package app;
+public class Rental {
   private Movie _movie;
   private int _daysRented;
 
